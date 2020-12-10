@@ -9,7 +9,7 @@
 .. _start:
 
 =============================================================
-Extension Name
+Tutorial TYPO3 page meta
 =============================================================
 
 :Version:
@@ -19,10 +19,10 @@ Extension Name
    en
 
 :Authors:
-   Your name
+   David Bruchmann
 
 :Email:
-   you@domain.tld
+   david.bruchmann@gmail.com
 
 :License:
    This extension documentation is published under the
@@ -38,16 +38,16 @@ a GNU/GPL CMS/Framework available from `typo3.org <https://typo3.org/>`_ .
 
 **Community Documentation**
 
-This documentation is community documentation for the TYPO3 extension {extension.name}
+This documentation is community documentation for TYPO3 itself and needs no individual extension.
 
-It is maintained as part of this third party extension.
+It is maintained in form of this third party extension.
 
 If you find an error or something is missing, please:
-`Report a Problem <https://github.com/TYPO3-Documentation/TYPO3CMS-Example-ExtensionManual/issues/new>`__
+`Report a Problem <https://github.com/DavidBruchmann/tutorial-typo3-page-meta/issues/new>`__
 
-**Extension Manual**
+**Tutorial**
 
-This documentation is for the TYPO3 extension <extkey>.
+This documentation is for TYPO3 itself.
 
 **For Contributors**
 

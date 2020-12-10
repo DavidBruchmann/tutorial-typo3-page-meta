@@ -6,7 +6,7 @@
 Extension Manual
 ================
 
-:Repository:  https://github.com/DavidBruchmann/tutorial-typo3-page-meta
+:Repository: https://github.com/DavidBruchmann/tutorial-typo3-page-meta
 :Read online: https://docs.typo3.org/typo3cms/ExtensionManualExample/
 
 
