@@ -6,17 +6,17 @@
 Extension Manual
 ================
 
-:Repository:  https://github.com/TYPO3-Documentation/TYPO3CMS-Example-ExtensionManual
+:Repository:  https://github.com/DavidBruchmann/tutorial-typo3-page-meta
 :Read online: https://docs.typo3.org/typo3cms/ExtensionManualExample/
 
 
 
-About this Repository
----------------------
+About this Tutorial
+-------------------
 
-This is a template manual aiming to help developers when it comes to documentation.
-The template provides a structure that a developer can use and
-many useful snippets and examples. Documentation is written in reST format.
+Meta-tags for pages in Typo3 can be set and manipulated by TypoScript.
+The TypoScript settings for meta-tags are more challenging than common TypoScript-tasks,
+so this tutorial is aimed to describe some challenges and offer solutions.
 
 Documentation Structure
 -----------------------
